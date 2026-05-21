@@ -1,0 +1,11 @@
+# CozeLoop Ops Cloud
+
+CozeLoop Ops Cloud is a SaaS workspace for agent observability platform.
+
+Website: https://cozeloopops.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: agent observability platform
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
